@@ -35,7 +35,7 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 
 ## Server API
 
-### Budget Router
+### Budgets Router
 
 All admin-only interactions with LiteLLM budgets and customers are exposed via the tRPC router under `budget.*` procedures.
 
